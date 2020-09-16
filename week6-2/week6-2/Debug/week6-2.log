@@ -1,2 +1,6 @@
 ﻿  Source.cpp
+C:\Users\Mild\Desktop\profund\week6-2\week6-2\Source.cpp(7,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Mild\Desktop\profund\week6-2\week6-2\Source.cpp(7,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Mild\Desktop\profund\week6-2\week6-2\Source.cpp(7,13): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Mild\Desktop\profund\week6-2\week6-2\Source.cpp(7,13): message : this argument is used as a buffer size
   week6-2.vcxproj -> C:\Users\Mild\Desktop\profund\week6-2\Debug\week6-2.exe
